@@ -1,8 +1,8 @@
 {
- "id" : "kmodel-cables",
+ "id" : "kmodel",
     "logging" : "summary",
     "precision" : "kMedium",
-    "output-dir" : "../../../results/kmodel-cables",
+    "output-dir" : "../../../results/kmodel",
     "global-mode-search" : {
         "method" : "kOptMinuit"
     },

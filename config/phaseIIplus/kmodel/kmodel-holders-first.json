@@ -1,8 +1,8 @@
 {
- "id" : "kmodel-holders",
+ "id" : "kmodel",
     "logging" : "summary",
     "precision" : "kMedium",
-    "output-dir" : "../../../results/kmodel-holders",
+    "output-dir" : "../../../results/kmodel",
     "global-mode-search" : {
         "method" : "kOptMinuit"
     },
@@ -11,7 +11,7 @@
         "iterations" : 1E07
     },
     "integration" : {
-        "enabled" :true,
+        "enabled" :false,
 	"use-best-fit-likelihood-offset" : true,              
         "method" : "kIntCuba",        
         "cuba-method" : "kCubaDivonne",
