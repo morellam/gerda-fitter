@@ -89,7 +89,7 @@
 	    },
 	    "K40-holders" : {
 		"range" : [1E4, 3E5],
-		"long-name" : "^{40}K - cables",
+		"long-name" : "^{40}K - holders",
 		"units" : "cts",
 		"prior" : {"histogram" : "../../results/kmodel/gerda-fitter-kmodel-marginalized.root:h1_kmodel_parameter_K40holders"}
 	    },
